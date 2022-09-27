@@ -1,3 +1,2 @@
 # cpp_cloude
-It contain user define classes 
-1)MyBST.cpp ------> contain the STL of BST
+  It contain standard template library(STL) supported Binary search tree (BST).[c++11 compiler]
